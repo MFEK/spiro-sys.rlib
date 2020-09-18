@@ -5,6 +5,8 @@ authors = ["Fredrick Brennan <copypaste@kittens.ph>"]
 edition = "2018"
 description = "Rust bindings for libspiro"
 links = "spiro"
+repository = "https://github.com/mfeq/spiro-sys/"
+license = "Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
