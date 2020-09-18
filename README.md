@@ -7,3 +7,7 @@ This is the low-level binding built with `bindgen`.
 TODO: Safe Rust wrapper.
 
 Note: LICENSE file refers only to my `build.rs`. Refer to `libspiro` for C code licensing and authorship.
+
+## Example
+
+Please see `tests/spiro_to_beziers.rs`, which outputs an SVG path for the below shape.
